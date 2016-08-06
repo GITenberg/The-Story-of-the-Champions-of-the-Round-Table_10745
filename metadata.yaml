@@ -1,0 +1,36 @@
+_repo: The-Story-of-the-Champions-of-the-Round-Table_10745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: The story of Sir Launcelot. -- The book of Sir Tristram. -- The book
+  of Sir Percival.
+gutenberg_bookshelf:
+- Fantasy
+- Arthurian Legends
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Arthurian romances -- Adaptations'
+- !lcsh 'Knights and knighthood -- Folklore'
+- !lcsh 'Arthur, King -- Legends'
+- !lcsh 'Perceval (Legendary character) -- Legends'
+- !lcsh 'Tristan (Legendary character) -- Legends'
+- !lcsh 'Lancelot (Legendary character) -- Legends'
+- GITenberg
+tableOfContents: The story of Launcelot -- The book of Sir Tristram -- The book of
+  Sir Percival.
+title: The Story of the Champions of the Round Table
+url: http://www.gutenberg.org/ebooks/10745
