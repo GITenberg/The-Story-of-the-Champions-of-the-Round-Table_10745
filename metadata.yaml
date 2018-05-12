@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-Champions-of-the-Round-Table_10745
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 10745-h/images/cover.l.gif
 creator:
   author:
     agent_name: Pyle, Howard
@@ -10,6 +13,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
 description: The story of Sir Launcelot. -- The book of Sir Tristram. -- The book
   of Sir Percival.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10745#The-Story-of-the-Champions-of-the-Round-Table
 gutenberg_bookshelf:
 - Fantasy
 - Arthurian Legends
